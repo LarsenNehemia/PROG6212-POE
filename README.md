@@ -5,6 +5,8 @@ READ ME:
 In order to run the code the user needs to have visual studio 2022 installed on either Windows 8-11 or MAC os 
 the application is a sysstem claim application that allows lectuers to insert claims and each of their claims can either be approved or reject by the manager.
 the application has 2 sides, one being the lecturer's dashboard and the Managers dashboard.
+The application will keep track of all the claims that are being tracked by the managers and each claim will have an answer deping on their status.
+The status are: Pending, Rejected or Accepted. The lectuers will get notified for each answer they recieve from the admins 
 
 XAML CODE
 
