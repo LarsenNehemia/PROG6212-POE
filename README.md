@@ -1,5 +1,11 @@
 # PROG6212-POE
 
+READ ME:
+
+In order to run the code the user needs to have visual studio 2022 installed on either Windows 8-11 or MAC os 
+the application is a sysstem claim application that allows lectuers to insert claims and each of their claims can either be approved or reject by the manager.
+the application has 2 sides, one being the lecturer's dashboard and the Managers dashboard.
+
 XAML CODE
 
 <Window x:Class="CMCS.MainWindow"
